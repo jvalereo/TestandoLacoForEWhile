@@ -1,0 +1,10 @@
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\bin\Debug\TesteLacoFor.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\bin\Debug\TesteLacoFor.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\bin\Debug\TesteLacoFor.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.Form1.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\TesteLacoFor\TesteLacoFor\obj\Debug\TesteLacoFor.Form2.resources
